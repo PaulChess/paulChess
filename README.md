@@ -1,4 +1,7 @@
 <p>
+  <div align="center">
+    <img src="./images/working.gif" />
+  </div>
   <div align="left">
     <samp>
       <p><b>Hello! ✌</b></p>
@@ -9,11 +12,11 @@
   <br><br>
   <div align="left">
     <samp>
-      <p>- 📫 You can call me at: <code style="color: pink;">15251852316</code></p>
+      <p>📫 You can call me at: <code style="color: pink;">15251852316</code></p>
+      <p>🔭 My work content is about <code>LowCode</code>、<code>UI Libraries</code></p>
       <p>🌱《极客时间》年度大会员，吸收学习ing...</p>
-      <p>🔭 渴望深耕于 <code>LowCode</code>、<code>组件库</code> 领域</p>
-      <!-- <p>- 🌱 I’m currently learning <code style="color: pink;">vue-next</code>&<code style="color: pink;">TypeScript</code></p>
-      <p>- 🔭 I’m currently reading: <code style="color: pink;">《前端开发核心知识进阶》</code>、<code style="color: pink;">《深入浅出Vue.js》</code></p> -->
+      <!-- <p>🌱 I’m currently learning <code style="color: pink;">vue-next</code>&<code style="color: pink;">TypeScript</code></p> -->
+      <p>📚 I’m currently reading: <code style="color: pink;">《暗时间》</code>、<code style="color: pink;">《Vue.js 设计与实现》</code></p> --> -->
     </samp>
   </div>
 </p>
