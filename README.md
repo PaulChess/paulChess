@@ -24,7 +24,12 @@
 
 <br>
 
-![PaulChess Github Stats](https://github-readme-stats.vercel.app/api?username=PaulChess&show_icons=true&theme=radical)
+<div align="center">
+
+  ![PaulChess Github Stats](https://github-readme-stats.vercel.app/api?username=PaulChess&show_icons=true&theme=radical)
+
+</div>
+
 ![github contribution grid snake animation](https://github.com/PaulChess/paulChess/blob/output/github-snake.gif?raw=true)
 
 **Languages:**  
