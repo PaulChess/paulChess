@@ -2,7 +2,7 @@
   <div align="center">
     <img src="./images/working.gif" />
   </div>
-  <div align="left">
+  <div align="center">
     <samp>
       <p><b>Hello! ✌</b></p>
       <p>I'm <code><b>Jiaqi Shen</b></code> , born in <code>1998</code></p>
@@ -10,21 +10,21 @@
     </samp>
   </div>
   <br><br>
-  <div align="left">
+  <div align="center">
     <samp>
       <p>📫 You can call me at: <code style="color: pink;">15251852316</code></p>
       <p>🔭 My work content is about <code>LowCode</code>、<code>UI Libraries</code></p>
       <p>🌱《极客时间》年度大会员，吸收学习ing...</p>
       <!-- <p>🌱 I’m currently learning <code style="color: pink;">vue-next</code>&<code style="color: pink;">TypeScript</code></p> -->
-      <p>📚 I’m currently reading: <code style="color: pink;">《暗时间》</code>、<code style="color: pink;">《Vue.js 设计与实现》</code></p> --> -->
+      <p>📚 I’m currently reading: <code style="color: pink;">《暗时间》</code>、<code style="color: pink;">《Vue.js 设计与实现》</code></p>
     </samp>
+
   </div>
 </p>
 
 <br>
 
 ![PaulChess Github Stats](https://github-readme-stats.vercel.app/api?username=PaulChess&show_icons=true&theme=radical)
-
 ![github contribution grid snake animation](https://github.com/PaulChess/paulChess/blob/output/github-snake.gif?raw=true)
 
 **Languages:**  
